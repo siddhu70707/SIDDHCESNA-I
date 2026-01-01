@@ -1,6 +1,6 @@
 # SIDDHCESNA-1
 
-![Project Demo](images/demo.png)  <!-- Replace with your own demo image -->
+
 
 ## Overview
 **SIDDHCESNA-1** is a **custom-built 8-bit ALU** (Arithmetic Logic Unit) designed for educational purposes and school projects.  
