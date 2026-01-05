@@ -40,9 +40,9 @@ The project also includes a **custom compiler named Scesna/C++** to interface wi
 - **Language:** S++ (for the Scesna/C++ compiler)
 - **Custom Compiler:** Scesna/C++ compiles operations into ALU-compatible instructions
 - **Code Organization:**  
-  - `code/` → Hardware test programs and compiler scripts
-  - `docs/` → Detailed explanation of ALU architecture
-  - `images/` → Photos or diagrams of the hardware setup
+  - `Scesna/` → Hardware test programs and compiler scripts
+  - `how_it_works/` → Detailed explanation of ALU architecture
+  - `pictures/` → Photos or diagrams of the hardware setup
 
 ---
 
